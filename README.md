@@ -19,6 +19,9 @@ Este é um simples projeto em Java para gerar senhas aleatórias. Este programa 
 ```bash
 git clone https://github.com/seu-usuario/gerador-de-senha-java.git
 ```
+## Licença
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
+
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
 
